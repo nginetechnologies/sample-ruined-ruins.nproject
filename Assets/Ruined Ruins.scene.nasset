@@ -53,6 +53,19 @@
     ],
     "children": [
         {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f66660e4-142a-c4a1-5922-c5a1b0d61218",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ruins Merged"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "85b4f610-b17c-ed29-fcf3-1b7861d1bd9a"
+            }
+        },
+        {
             "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
             "instanceGuid": "2662ae70-aad5-3143-deea-6fdbd8b2020e",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
