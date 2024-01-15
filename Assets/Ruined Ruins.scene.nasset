@@ -96,6 +96,49 @@
             ]
         },
         {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "c5956892-2f39-4c0c-90f2-4250c389ebb2",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    -0.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
+                    "instanceGuid": "c5b14927-cc5e-4ef2-a658-1ed91b9be660",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "e81f4e62-fee0-4182-9c1a-a47c053b813f": {
+                        "half_extent": [
+                            100.0,
+                            100.0,
+                            1.0
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Ground Collider"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
             "instanceGuid": "7958da50-4d21-cf9a-a0b7-74b271d06df4",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
