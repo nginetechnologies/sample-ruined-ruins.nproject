@@ -6,7 +6,11 @@
     "5b42898b-3fb1-4238-be61-23c2f1259f61": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Ruined Ruins.scene.nasset"
+        "path": "Assets/Ruined Ruins.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[3.394326686859131,-45.4644660949707,10.768248558044434],\"rotation\":[-44.450130462646487,1.1571396640874809e-7,56.23797607421875]}"
+        }
     },
     "81e843b0-4f79-40f7-957a-378ac3eacd43": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
@@ -194,6 +198,7 @@
         "4fa99b62-86be-5446-1cf6-65d7f08b10bf",
         "51a5c339-cdb8-4a30-db09-d36b1d10ad84",
         "51a7ae1c-5e00-f42e-c5ec-9a5051586d6e",
+        "528ede13-d871-2f3c-9936-2f1768819bfd",
         "52b84418-03be-7fba-41e1-496b88f19133",
         "5320cf25-a438-6e76-a38f-6023bfbd6638",
         "5389ea25-2698-53f4-6916-d5032a261d58",
@@ -204,6 +209,7 @@
         "5568bda7-daba-c06d-4321-2d6b46d5014a",
         "56d5603b-2e23-8c83-4c91-e12bd685dcbe",
         "570b417a-6767-447e-d708-7e1c44a2cced",
+        "5713dc18-e92c-94c6-4b7f-8189fefc4dd7",
         "574b718b-7fb2-d7f0-9fbe-e3ed36fc49e0",
         "578fa21b-1c29-e712-c75d-6efe2509aea5",
         "5831b6fd-d303-c84b-894a-d2f6e1e19d12",
@@ -412,6 +418,7 @@
         "bdd9ef41-a582-4c3a-4140-ee279ad7ab02",
         "bdeb317f-0af7-c13f-5ecd-fb7f39c4a91a",
         "bdff2931-bacd-5968-8104-c6167e05d655",
+        "be214c89-0085-fd04-8d1c-893e33ee9a32",
         "bf3ce953-d18c-94d2-716e-d1d838c8918c",
         "bf9cc2ec-50eb-fb0f-312f-f06afa07490b",
         "c10af265-b935-473d-b8e2-2d96a0f873bf",
